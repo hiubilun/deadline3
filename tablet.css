@@ -1,0 +1,119 @@
+@media only screen  and (max-width: 992px){
+    html{
+        color: #333333;
+        font-size: 20px;
+        font-weight: 700;
+        font-family: "Be Vietnam Pro", sans-serif;  
+    }
+    body{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    #header{
+        padding-top: 25px;
+        padding-bottom: 25px; 
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+    }
+    #logo{
+        display: grid;
+        place-content: center;
+        width: 140px;
+        height: 42px;
+        border-radius: 8px;
+        background-color: #E2E2E2;
+    }
+    #menu{
+        display: grid;
+        place-content: center;
+        width: 418px;
+        height: 30px;
+        border-radius: 8px;
+        background-color: #E2E2E2;
+    }
+    #button{
+        display: grid;
+        place-content: center;
+        width: 102px;
+        height: 36px;
+        border-radius: 8px;
+        background-color: #E2E2E2;
+    }
+    #Content{
+        display: grid;
+        place-content: center;
+        align-self: center;
+        width: 345px;
+        height: 267px;
+        border-radius: 8px;
+        background-color: #E2E2E2;
+    }
+    #image{
+        display: grid;
+        place-content: center;
+        width: 345px;
+        height: 310px;
+        border-radius: 8px;
+        background-color: #E2E2E2;
+    }
+    .light-gray{
+        background-color: #F1F1F1F1;
+    }
+    .container{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .content{
+        display: flex;
+        gap: 30px;
+        width: 100%;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .title{
+        display: grid;
+        place-content: center;
+        justify-self: center;
+        font-family: "Lora", serif;
+        background-color: #E2E2E2;
+        width: 720px;
+        height: 60px;
+        border-radius: 8px; 
+        margin-bottom: 30px;
+    }
+    .item-1{
+        display: grid;
+        place-content: center;
+        width: 345px;
+        height: 420px;
+        border-radius: 8px;
+        background-color: #E2E2E2;
+        margin-bottom: 30px;
+    }
+    .item-2{
+        display: grid;
+        place-content: center;
+        width: 220px;
+        height: 300px;
+        border-radius: 8px;
+        background-color: #E2E2E2;
+        margin-bottom: 30px;
+    }
+    .item-3{
+        display: grid;
+        place-content: center;
+        width: 345px;
+        height: 300px;
+        border-radius: 8px;
+        background-color: #E2E2E2;
+        margin-bottom: 30px;
+    }
+    #footer{
+        height: 72px;
+        display: grid;
+        place-content: center;
+    }
+}
