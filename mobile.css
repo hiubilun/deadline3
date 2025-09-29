@@ -24,7 +24,7 @@
         height: 42px;
         border-radius: 8px;
         background-color: #E2E2E2;
-        order: 2;
+        order: 1;
     }
     #menu{
         display: grid;
@@ -33,7 +33,7 @@
         height: 36px;
         border-radius: 8px;
         background-color: #E2E2E2;
-        order: 1;
+        order: -1;
     }
     #button{
         display: grid;
@@ -47,7 +47,8 @@
         display: grid;
         place-content: center;
         align-self: center;
-        width: 546px;
+        width: 95%;
+        max-width: 546px;
         height: 267px;
         border-radius: 8px;
         background-color: #E2E2E2;
@@ -56,7 +57,8 @@
     #image{
         display: grid;
         place-content: center;
-        width: 546px;
+        width: 95%;
+        max-width: 546px;
         height: 491px;
         border-radius: 8px;
         background-color: #E2E2E2;
@@ -71,8 +73,9 @@
     }
     .content{
         display: flex;
-        gap: 30px;
-        width: 100%;
+        gap: 15px;
+        width: 95%;
+        max-width: 576px; 
         justify-content: center;
         flex-wrap: wrap;
     }
@@ -91,7 +94,8 @@
     .item-1{
         display: grid;
         place-content: center;
-        width: 546px;
+        width: 95%;
+        max-width: 546px;
         height: 420px;
         border-radius: 8px;
         background-color: #E2E2E2;
@@ -100,7 +104,8 @@
     .item-2{
         display: grid;
         place-content: center;
-        width: 258px;
+        width: 45%;
+        max-width: 258px;
         height: 300px;
         border-radius: 8px;
         background-color: #E2E2E2;
@@ -109,7 +114,8 @@
     .item-3{
         display: grid;
         place-content: center;
-        width: 258px;
+        width: 45%;
+        max-width: 258px;
         height: 300px;
         border-radius: 8px;
         background-color: #E2E2E2;
