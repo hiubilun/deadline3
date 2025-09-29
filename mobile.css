@@ -24,7 +24,7 @@
         height: 42px;
         border-radius: 8px;
         background-color: #E2E2E2;
-        order: 1;
+        order: -1;
     }
     #menu{
         display: grid;
@@ -47,7 +47,7 @@
         display: grid;
         place-content: center;
         align-self: center;
-        width: 95%;
+        width: 100%;
         max-width: 546px;
         height: 267px;
         border-radius: 8px;
@@ -57,7 +57,7 @@
     #image{
         display: grid;
         place-content: center;
-        width: 95%;
+        width: 100%;
         max-width: 546px;
         height: 491px;
         border-radius: 8px;
@@ -94,7 +94,7 @@
     .item-1{
         display: grid;
         place-content: center;
-        width: 95%;
+        width: 100%;
         max-width: 546px;
         height: 420px;
         border-radius: 8px;
@@ -104,7 +104,7 @@
     .item-2{
         display: grid;
         place-content: center;
-        width: 45%;
+        width: 46%;
         max-width: 258px;
         height: 300px;
         border-radius: 8px;
@@ -114,7 +114,7 @@
     .item-3{
         display: grid;
         place-content: center;
-        width: 45%;
+        width: 46%;
         max-width: 258px;
         height: 300px;
         border-radius: 8px;
