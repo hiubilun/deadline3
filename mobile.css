@@ -100,12 +100,12 @@
         height: 420px;
         border-radius: 8px;
         background-color: #E2E2E2;
-        margin-bottom: 30px;
+        margin-bottom: 15px;
     }
     .item-2{
         display: grid;
         place-content: center;
-        width: 46%;
+        width: 50%;
         max-width: 258px;
         height: 300px;
         border-radius: 8px;
@@ -115,7 +115,7 @@
     .item-3{
         display: grid;
         place-content: center;
-        width: 46%;
+        width: 50%;
         max-width: 258px;
         height: 300px;
         border-radius: 8px;
