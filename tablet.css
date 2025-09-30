@@ -63,12 +63,10 @@
         background-color: #F1F1F1F1;
     }
     .container{
-        padding-top: 30px;
-        padding-bottom: 30px;
+        padding: 5px 30px 5px;
         justify-content: center;
     }
     .content{
-        padding: 10px;
         display: flex;
         gap: 30px;
         max-width: 992px;
