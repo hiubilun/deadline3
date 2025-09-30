@@ -48,7 +48,7 @@
         display: grid;
         place-content: center;
         align-self: center;
-        width: 95%;
+        width: 100%;
         max-width: 546px;
         height: 267px;
         border-radius: 8px;
@@ -58,7 +58,7 @@
     #image{
         display: grid;
         place-content: center;
-        width: 95%;
+        width: 100%;
         max-width: 546px;
         height: 491px;
         border-radius: 8px;
@@ -75,7 +75,7 @@
     .content{
         padding: 5px;
         display: flex;
-        gap: 15px;
+        gap: 10px;
         max-width: 576px; 
         flex-wrap: wrap;
         justify-content: flex-start;
@@ -86,7 +86,7 @@
         justify-self: center;
         font-family: "Lora", serif;
         background-color: #E2E2E2;
-        width: 95%;
+        width: 100%;
         max-width: 546px;
         height: 60px;
         border-radius: 8px; 
@@ -95,7 +95,7 @@
     .item-1{
         display: grid;
         place-content: center;
-        width: 95%;
+        width: 100%;
         max-width: 546px;
         height: 420px;
         border-radius: 8px;
@@ -105,7 +105,7 @@
     .item-2{
         display: grid;
         place-content: center;
-        width: 45%;
+        width: 47%;
         max-width: 258px;
         height: 300px;
         border-radius: 8px;
@@ -115,7 +115,7 @@
     .item-3{
         display: grid;
         place-content: center;
-        width: 45%;
+        width: 47%;
         max-width: 258px;
         height: 300px;
         border-radius: 8px;
