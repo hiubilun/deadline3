@@ -100,8 +100,7 @@ body{
     height: 300px;
     border-radius: 8px;
     background-color: #E2E2E2;
-    margin-bottom: 30px;
-}
+    margin-bottom: 20px;
 .item-3{
     display: grid;
     place-content: center;
