@@ -63,6 +63,7 @@ body{
 }
 .container{
     padding: 30px 50px 30px;
+    justify-content: center;
 }
 .content{
     display: flex;
