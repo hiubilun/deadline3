@@ -78,6 +78,7 @@
         width: 100%;
         max-width: 576px; 
         flex-wrap: wrap;
+        justify-content: flex-start;
     }
     .title{
         display: grid;
