@@ -104,17 +104,17 @@
     .item-2{
         display: grid;
         place-content: center;
-        width: 50%;
+        width: calc(50% - 7.5px);
         max-width: 258px;
         height: 300px;
         border-radius: 8px;
         background-color: #E2E2E2;
-        margin-bottom: 15x;
+        margin-bottom: 15px;
     }
     .item-3{
         display: grid;
         place-content: center;
-        width: 50%;
+        width: calc(50% - 7.5px);
         max-width: 258px;
         height: 300px;
         border-radius: 8px;
