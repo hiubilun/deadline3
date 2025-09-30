@@ -48,7 +48,7 @@
         display: grid;
         place-content: center;
         align-self: center;
-        width: 100%;
+        width: 95%;
         max-width: 546px;
         height: 267px;
         border-radius: 8px;
@@ -58,7 +58,7 @@
     #image{
         display: grid;
         place-content: center;
-        width: 100%;
+        width: 95%;
         max-width: 546px;
         height: 491px;
         border-radius: 8px;
@@ -73,7 +73,7 @@
         padding-bottom: 30px;
     }
     .content{
-        padding: 3px;
+        padding: 5px;
         display: flex;
         gap: 10px;
         max-width: 576px; 
@@ -95,7 +95,7 @@
     .item-1{
         display: grid;
         place-content: center;
-        width: 100%;
+        width: 95%;
         max-width: 546px;
         height: 420px;
         border-radius: 8px;
@@ -105,7 +105,7 @@
     .item-2{
         display: grid;
         place-content: center;
-        width: calc(50% - 5px);
+        width: 45%;
         max-width: 258px;
         height: 300px;
         border-radius: 8px;
@@ -115,7 +115,7 @@
     .item-3{
         display: grid;
         place-content: center;
-        width: calc(50% - 5px);
+        width: 45%;
         max-width: 258px;
         height: 300px;
         border-radius: 8px;
