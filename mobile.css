@@ -75,7 +75,6 @@
     .content{
         display: flex;
         gap: 10px;
-        width: 100%;
         max-width: 576px; 
         flex-wrap: wrap;
         justify-content: flex-start;
@@ -100,7 +99,7 @@
         height: 420px;
         border-radius: 8px;
         background-color: #E2E2E2;
-        margin-bottom: 15px;
+        margin-bottom: 10px;
     }
     .item-2{
         display: grid;
@@ -110,7 +109,7 @@
         height: 300px;
         border-radius: 8px;
         background-color: #E2E2E2;
-        margin-bottom: 15px;
+        margin-bottom: 10px;
     }
     .item-3{
         display: grid;
@@ -120,7 +119,7 @@
         height: 300px;
         border-radius: 8px;
         background-color: #E2E2E2;
-        margin-bottom: 15px;
+        margin-bottom: 10px;
     }
     #footer{
         height: 72px;
