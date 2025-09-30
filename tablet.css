@@ -90,7 +90,6 @@
         height: 420px;
         border-radius: 8px;
         background-color: #E2E2E2;
-        margin-bottom: 10px;
     }
     .item-2{
         display: grid;
@@ -99,7 +98,6 @@
         height: 300px;
         border-radius: 8px;
         background-color: #E2E2E2;
-        margin-bottom: 10px;
     }
     .item-3{
         display: grid;
@@ -108,7 +106,6 @@
         height: 300px;
         border-radius: 8px;
         background-color: #E2E2E2;
-        margin-bottom: 10px;
     }
     #footer{
         height: 72px;
