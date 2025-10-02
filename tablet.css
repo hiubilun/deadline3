@@ -1,15 +1,4 @@
 @media only screen  and (max-width: 1245px){
-        html{
-        color: #333333;
-        font-size: 20px;
-        font-weight: 700;
-        font-family: "Be Vietnam Pro", sans-serif;
-    }
-    *{
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-    }
     #header{
         width: 720px;
         margin: 0 auto;
@@ -20,16 +9,6 @@
         display: flex;
         align-items: center;
         justify-content: space-between;
-    }
-    .centered-box{
-        display: grid;
-        place-content: center;
-    }
-    .dark-gray{
-        background-color: #E2E2E2;
-    }
-    .round{
-        border-radius: 8px;
     }
     #logo{
         width: 140px;
@@ -51,9 +30,6 @@
     #image{
         width: 345px;
         height: 310px;
-    }
-    .light-gray{
-        background-color: #F1F1F1;
     }
     .container{
         padding-top: 60px;
@@ -88,9 +64,5 @@
     .item-3{
         width: 345px;
         height: 300px;
-    }
-    #footer{
-        background-color: #D9D9D9;
-        height: 72px;
     }
 }
