@@ -1,14 +1,7 @@
-@media only screen  and (max-width: 1245px){
+@media only screen  and (max-width: 1230px){
     #header{
+        padding: 15px 0;
         width: 720px;
-        margin: 0 auto;
-    }
-    #small-header{
-        padding-top: 15px;
-        padding-bottom: 15px;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
     }
     #logo{
         width: 140px;
@@ -32,23 +25,12 @@
         height: 310px;
     }
     .container{
-        padding-top: 60px;
-        padding-bottom: 60px;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
+        padding: 60px 0;
     }
     .content{
-        display: flex;
-        flex-wrap: wrap;
-        gap: 30px;
         width: 720px;
-        margin: auto;
-        justify-content: flex-start;
     }
     .title{
-        align-self: center;
-        font-family: "Lora", serif;
         width: 720px;
         height: 60px;
         margin-bottom: 30px;
